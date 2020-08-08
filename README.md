@@ -14,11 +14,12 @@ Importante:
   
   Funciones del Administrador:
 
-Mantenedor Cliente \n
-Mantenedor Profesional
-Gestionar Pagos del Cliente
-Calcular Accidentabilidad
+Mantenedor Cliente -- 
+Mantenedor Profesional -- 
+Gestionar Pagos del Cliente --
+Calcular Accidentabilidad --
 Visualizar Accidentes
+
 Notificar Atrasos
 Generar Reporte Cliente
 Generar Reporte Global
