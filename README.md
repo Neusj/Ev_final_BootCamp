@@ -8,7 +8,7 @@ Esta aplicaión cuenta con diversas funciones para la gestion de accidentes de u
 	
 Importante: 
 ** Los datos a la conexion a base de datos deben cambiarse en el root-context.xml
-** Los usuarios y contraseñas se encuatran en la seccion acerca en el inicio de la app.
+** Los usuarios y contraseñas se encuatran en la seccion "ACERCA" en el inicio de la app.
 ** Se recomienda una vez instalada la base de datos (oracle) desconectar y conectar nuevamenta la base
     antes de ejecutar la apicacion para la correcta carga de datos.
   
