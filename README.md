@@ -21,7 +21,9 @@ Calcular Accidentabilidad --
 Visualizar Accidentes
 
 Notificar Atrasos
+
 Generar Reporte Cliente
+
 Generar Reporte Global
 
 
