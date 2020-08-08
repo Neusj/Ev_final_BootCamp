@@ -10,11 +10,11 @@ Importante:
 ** Los datos a la conexion a base de datos deben cambiarse en el root-context.xml
 ** Los usuarios y contraseñas se encuatran en la seccion "ACERCA" en el inicio de la app.
 ** Se recomienda una vez instalada la base de datos (oracle) desconectar y conectar nuevamenta la base
-    antes de ejecutar la apicacion para la correcta carga de datos.
+    antes de ejecutar la aplicacion para la correcta carga de datos.
   
   Funciones del Administrador:
 
-Mantenedor Cliente
+Mantenedor Cliente \n
 Mantenedor Profesional
 Gestionar Pagos del Cliente
 Calcular Accidentabilidad
